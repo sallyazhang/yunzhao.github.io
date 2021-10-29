@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://serverless-page-bucket-3a3lakxd-1308001360.cos-website.ap-hongkong.myqcloud.com</id>
+    <id>https://yunzhao.github.io</id>
     <title>香螺蜂</title>
-    <updated>2021-10-29T10:14:07.057Z</updated>
+    <updated>2021-10-29T11:26:44.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://serverless-page-bucket-3a3lakxd-1308001360.cos-website.ap-hongkong.myqcloud.com"/>
-    <link rel="self" href="https://serverless-page-bucket-3a3lakxd-1308001360.cos-website.ap-hongkong.myqcloud.com/atom.xml"/>
+    <link rel="alternate" href="https://yunzhao.github.io"/>
+    <link rel="self" href="https://yunzhao.github.io/atom.xml"/>
     <subtitle>一个个人随笔堆放处</subtitle>
-    <logo>https://serverless-page-bucket-3a3lakxd-1308001360.cos-website.ap-hongkong.myqcloud.com/images/avatar.png</logo>
-    <icon>https://serverless-page-bucket-3a3lakxd-1308001360.cos-website.ap-hongkong.myqcloud.com/favicon.ico</icon>
+    <logo>https://yunzhao.github.io/images/avatar.png</logo>
+    <icon>https://yunzhao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 香螺蜂</rights>
     <entry>
         <title type="html"><![CDATA[【雷帕】死生敌友]]></title>
-        <id>https://serverless-page-bucket-3a3lakxd-1308001360.cos-website.ap-hongkong.myqcloud.com/post/lei-pa-si-sheng-di-you/</id>
-        <link href="https://serverless-page-bucket-3a3lakxd-1308001360.cos-website.ap-hongkong.myqcloud.com/post/lei-pa-si-sheng-di-you/">
+        <id>https://yunzhao.github.io/post/lei-pa-si-sheng-di-you/</id>
+        <link href="https://yunzhao.github.io/post/lei-pa-si-sheng-di-you/">
         </link>
         <updated>2021-09-15T16:53:28.000Z</updated>
         <summary type="html"><![CDATA[<details><summary>Notes</summary>
@@ -33,8 +33,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[【雷帕】错位相交]]></title>
-        <id>https://serverless-page-bucket-3a3lakxd-1308001360.cos-website.ap-hongkong.myqcloud.com/post/lei-pa-cuo-wei-xiang-jiao/</id>
-        <link href="https://serverless-page-bucket-3a3lakxd-1308001360.cos-website.ap-hongkong.myqcloud.com/post/lei-pa-cuo-wei-xiang-jiao/">
+        <id>https://yunzhao.github.io/post/lei-pa-cuo-wei-xiang-jiao/</id>
+        <link href="https://yunzhao.github.io/post/lei-pa-cuo-wei-xiang-jiao/">
         </link>
         <updated>2021-08-06T18:14:34.000Z</updated>
         <summary type="html"><![CDATA[<details><summary>Notes</summary>
@@ -54,8 +54,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[【R瑞】无关风月]]></title>
-        <id>https://serverless-page-bucket-3a3lakxd-1308001360.cos-website.ap-hongkong.myqcloud.com/post/r-rui-wu-guan-feng-yue/</id>
-        <link href="https://serverless-page-bucket-3a3lakxd-1308001360.cos-website.ap-hongkong.myqcloud.com/post/r-rui-wu-guan-feng-yue/">
+        <id>https://yunzhao.github.io/post/r-rui-wu-guan-feng-yue/</id>
+        <link href="https://yunzhao.github.io/post/r-rui-wu-guan-feng-yue/">
         </link>
         <updated>2021-07-05T18:21:29.000Z</updated>
         <summary type="html"><![CDATA[<details><summary>Notes</summary>
@@ -73,8 +73,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[【雷帕】不要让猫闻到木天蓼]]></title>
-        <id>https://serverless-page-bucket-3a3lakxd-1308001360.cos-website.ap-hongkong.myqcloud.com/post/lei-pa-bu-yao-rang-mao-wen-dao-mu-tian-liao/</id>
-        <link href="https://serverless-page-bucket-3a3lakxd-1308001360.cos-website.ap-hongkong.myqcloud.com/post/lei-pa-bu-yao-rang-mao-wen-dao-mu-tian-liao/">
+        <id>https://yunzhao.github.io/post/lei-pa-bu-yao-rang-mao-wen-dao-mu-tian-liao/</id>
+        <link href="https://yunzhao.github.io/post/lei-pa-bu-yao-rang-mao-wen-dao-mu-tian-liao/">
         </link>
         <updated>2021-06-24T18:12:14.000Z</updated>
         <summary type="html"><![CDATA[<details><summary>Notes</summary>
@@ -92,8 +92,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[【雷帕】独我独他]]></title>
-        <id>https://serverless-page-bucket-3a3lakxd-1308001360.cos-website.ap-hongkong.myqcloud.com/post/lei-pa-du-wo-du-ta/</id>
-        <link href="https://serverless-page-bucket-3a3lakxd-1308001360.cos-website.ap-hongkong.myqcloud.com/post/lei-pa-du-wo-du-ta/">
+        <id>https://yunzhao.github.io/post/lei-pa-du-wo-du-ta/</id>
+        <link href="https://yunzhao.github.io/post/lei-pa-du-wo-du-ta/">
         </link>
         <updated>2021-05-28T16:47:48.000Z</updated>
         <summary type="html"><![CDATA[<details><summary>Notes</summary>
@@ -113,8 +113,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[【雷帕】病疯醒梦]]></title>
-        <id>https://serverless-page-bucket-3a3lakxd-1308001360.cos-website.ap-hongkong.myqcloud.com/post/lei-pa-bing-feng-xing-meng/</id>
-        <link href="https://serverless-page-bucket-3a3lakxd-1308001360.cos-website.ap-hongkong.myqcloud.com/post/lei-pa-bing-feng-xing-meng/">
+        <id>https://yunzhao.github.io/post/lei-pa-bing-feng-xing-meng/</id>
+        <link href="https://yunzhao.github.io/post/lei-pa-bing-feng-xing-meng/">
         </link>
         <updated>2021-05-02T16:41:18.000Z</updated>
         <summary type="html"><![CDATA[<details><summary>Notes</summary>
@@ -136,8 +136,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[【雷帕】情之所冢]]></title>
-        <id>https://serverless-page-bucket-3a3lakxd-1308001360.cos-website.ap-hongkong.myqcloud.com/post/lei-pa-qing-zhi-suo-zhong/</id>
-        <link href="https://serverless-page-bucket-3a3lakxd-1308001360.cos-website.ap-hongkong.myqcloud.com/post/lei-pa-qing-zhi-suo-zhong/">
+        <id>https://yunzhao.github.io/post/lei-pa-qing-zhi-suo-zhong/</id>
+        <link href="https://yunzhao.github.io/post/lei-pa-qing-zhi-suo-zhong/">
         </link>
         <updated>2021-04-01T16:04:55.000Z</updated>
         <summary type="html"><![CDATA[<details><summary>Notes</summary>
@@ -155,8 +155,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[【雷帕】疑心暗鬼]]></title>
-        <id>https://serverless-page-bucket-3a3lakxd-1308001360.cos-website.ap-hongkong.myqcloud.com/post/lei-pa-yi-xin-an-gui/</id>
-        <link href="https://serverless-page-bucket-3a3lakxd-1308001360.cos-website.ap-hongkong.myqcloud.com/post/lei-pa-yi-xin-an-gui/">
+        <id>https://yunzhao.github.io/post/lei-pa-yi-xin-an-gui/</id>
+        <link href="https://yunzhao.github.io/post/lei-pa-yi-xin-an-gui/">
         </link>
         <updated>2021-02-19T18:06:02.000Z</updated>
         <summary type="html"><![CDATA[<details><summary>Notes</summary>
@@ -178,8 +178,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[【雷帕】言有尽]]></title>
-        <id>https://serverless-page-bucket-3a3lakxd-1308001360.cos-website.ap-hongkong.myqcloud.com/post/lei-pa-yan-you-jin/</id>
-        <link href="https://serverless-page-bucket-3a3lakxd-1308001360.cos-website.ap-hongkong.myqcloud.com/post/lei-pa-yan-you-jin/">
+        <id>https://yunzhao.github.io/post/lei-pa-yan-you-jin/</id>
+        <link href="https://yunzhao.github.io/post/lei-pa-yan-you-jin/">
         </link>
         <updated>2020-11-14T18:02:30.000Z</updated>
         <summary type="html"><![CDATA[<details><summary>Notes</summary>
@@ -209,8 +209,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[【风月】莫回还]]></title>
-        <id>https://serverless-page-bucket-3a3lakxd-1308001360.cos-website.ap-hongkong.myqcloud.com/post/feng-yue-mo-hui-huan/</id>
-        <link href="https://serverless-page-bucket-3a3lakxd-1308001360.cos-website.ap-hongkong.myqcloud.com/post/feng-yue-mo-hui-huan/">
+        <id>https://yunzhao.github.io/post/feng-yue-mo-hui-huan/</id>
+        <link href="https://yunzhao.github.io/post/feng-yue-mo-hui-huan/">
         </link>
         <updated>2019-10-11T00:35:41.000Z</updated>
         <summary type="html"><![CDATA[<p>风逍遥睁开眼，发觉自己不知何时倚着墙根昏沉睡去。眼前是全然陌生的中原街道，而自己身着的，则是加入铁军卫没几年时的戎装。</p>
